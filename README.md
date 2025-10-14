@@ -161,7 +161,7 @@ make test-zksync
 PRs are welcome!
 
 ```
-git clone https://github.com/Cyfrin/foundry-devops
+git clone https://github.com/criptomind410/foundry-devops-project
 cd foundry-devops
 make
 ```
