@@ -165,3 +165,9 @@ git clone https://github.com/criptomind410/foundry-devops-project
 cd foundry-devops
 make
 ```
+
+## My Contributions
+
+- Extended deployment lookup logic for multi-chain environments
+- Added zkSync chain detection utilities
+- Improved scripting workflows for contract interaction
